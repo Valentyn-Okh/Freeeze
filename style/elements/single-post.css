@@ -1,0 +1,44 @@
+.post{
+    padding: 70px 0 120px 0;
+}
+
+.post .single .right{
+    margin: 0;
+}
+
+.post .single .box{
+    width: 100%;
+}
+
+.post .single .box h3{
+    padding-top: 20px;
+    font-family: latoB;
+    color: #cb3362;
+}
+
+.post .single .box .smoll{
+    font-size: 13px;
+    color: #7a6666;
+    padding-top: 6px;
+}
+
+.post .single .box .par{
+    padding-top: 18px;
+    line-height: 23px;
+    color: #7a6666;
+    font-family: latoR;
+}
+
+.post .single .box a{
+    text-decoration: none;
+    color: #a5838e;
+}
+
+.post .single .box .btn{
+    margin-top: 60px;
+    margin-left: 25%;
+    padding: 0 20px;
+    height: 30px;
+    border: 2px solid #cbb5bc;
+    background-color: #fff;
+}
