@@ -1,0 +1,50 @@
+.about {
+    padding: 40px 0 150px 0;
+}
+
+.about .cont-about a{
+    color: #7a6666;
+}
+
+.about .cont-about p{
+    line-height: 24px;
+    color: #7a6666;
+    font-family: latoR;
+    font-size: 15px;
+}
+
+.about .cont-about h3{
+    font-family: latoB;
+    color: #cb3362;
+}
+
+.about .cont-about .box1{
+    width: 33%;
+    background-color: #eae8e9;
+    float:left;
+    text-align: center;
+}
+
+.about .cont-about .box1 h3{
+    padding-top: 30px;
+    margin-bottom: 50px;
+    line-height: 40px;
+}
+
+.about .cont-about .box1 p{
+    line-height: 40px;
+    padding-bottom: 45px;
+}
+
+.about .cont-about .box2{
+    width: 60%;
+    margin-left: 37%;
+}
+
+.about .cont-about .box2 .h3-2{
+    padding: 17px 0;
+} 
+
+.about .cont-about .box2 .par1{
+    padding: 17px 0;
+}
