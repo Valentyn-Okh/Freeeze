@@ -1,0 +1,41 @@
+main{
+    padding: 35px 0 40px 0;
+}
+
+main .products .text, .images{
+    width: 24.6%;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 15px 0;
+}
+
+main .products .images{
+    text-align: center;
+}
+
+main .products .images img{
+    width: 210px;
+    height: 205px;
+}
+
+main .products .images h6{
+    font-family: latoB;
+    color: #cb3362;
+    font-weight: 200;
+    font-size: 13px;
+}
+
+main .products .text h3{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 800;
+    color: #cb3362;
+    padding-bottom: 17px;
+}
+
+main .products .text p{
+    color: #9f9f9f;
+    font-size: 19px;
+    line-height: 25px;
+    padding-bottom: 20px;
+}
